@@ -1,0 +1,15 @@
+.header{
+  background-image: url("/img/background-image.png");
+  background-repeat: no-repeat;
+  background-size: 1541px 788px;
+  
+  &__inner{
+    padding-top: 20px;
+    padding-bottom: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+ 
+

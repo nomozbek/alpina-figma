@@ -1,0 +1,76 @@
+.about-girls{
+  height:640px;
+  position: relative;
+  
+
+
+
+  &__brends-info{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+
+  &__beatiful-girls{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  &__beatiful-girls ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+  }
+
+  &__beatiful-girls ul li {
+    margin-right: 25px;
+
+
+  }
+
+  &__girls-info ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+  }
+
+  &__girls-info ul li{
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 149.8%;
+  color: #000000;
+  }
+
+  .first-item{
+  width: 268.09px;
+  height: 194.02px;
+  }
+
+  .second-item{
+  width: 252.8px;
+  height: 194.02px;
+  }
+
+  .third-item{
+  width: 268.09px;
+  height: 138.58px;
+  }
+
+  &__circle{
+    position: absolute;
+    top: 500px;
+  width: 117px;
+  height: 117px;
+  background-color: #FF1640;
+  border-radius: 50%;
+  }
+
+
+  
+
+
+}
